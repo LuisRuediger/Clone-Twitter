@@ -11,7 +11,7 @@
 
 ## About this Project
 
-Simple Twitter clone, develop to exercise Flexbox concepts.
+Simple Twitter clone, developed to exercise Flexbox concepts.
 
 ---
 
